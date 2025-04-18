@@ -73,6 +73,4 @@ def main():
         if again != 'y':
             print("Thanks for playing! 👋")
             break
-
-# Start the game
 main()
