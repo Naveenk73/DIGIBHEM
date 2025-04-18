@@ -48,10 +48,10 @@ You'll be prompted to enter the names for Player 1 and Player 2 and take turns p
 ### 📷 Demo
 
 ```
-Player 1: Alice
-Player 2: Bob
+Player 1: naveen
+Player 2: kanna
 
-Alice (X)'s turn:
+naveen (X)'s turn:
 Enter the position 1-9 ==> 1
 
 X  | -  | -
